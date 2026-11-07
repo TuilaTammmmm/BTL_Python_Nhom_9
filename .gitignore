@@ -1,0 +1,30 @@
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
+
+# Logs & Temporary Test Files
+*.log
+*.tmp
+temp_test_data/
+.pytest_cache/
+
+# User-specific & Draft Files
+*.txt
+*.md
+!requirements.txt
+!README.md
+*.docx
+*.doc
